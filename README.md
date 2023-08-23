@@ -1,4 +1,4 @@
-# Arduino-Blynk-Smart-Door-Lock-System
+# Arduino Blynk Smart Door Lock System
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - Firstly you should download Blynk mobile app, then you should design your board and after that, you will get a code. This code helps you to connect device and your phone. Write necessary informations on the code then upload and run. You can find images and videos on file.
